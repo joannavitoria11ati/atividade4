@@ -9,3 +9,7 @@ body {
 h1, h2, h3 {
     color: #93c5fd;
 }
+
+header {
+    background-color:#172554;
+}
